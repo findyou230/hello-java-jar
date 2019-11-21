@@ -1,2 +1,2 @@
 # hello-java-jar
-java jar包demo示例工程
+java jar包demo示例工程.
